@@ -13,3 +13,7 @@ ela já conhece dos bairros do Rio de Janeiro.
 Esse trabalho vai predizer os bairros em São Paulo, que a empresa alimentícia
 deve implementar suas lojas, baseado na predição do faturamento das lojas, a 
 faixa etária do público alvo e sua renda média.
+
+Abaixo, um dos gráficos das predições.
+
+![tree](https://user-images.githubusercontent.com/96089256/180048408-2446f533-ab7d-45f6-8cc9-4e070c682f64.png)
